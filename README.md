@@ -4,7 +4,7 @@
 - 🖥️ Most of my Applications are hosted on Coolify on Hetzner. 
 
 - 📫 You can visit my Website at https://yannicreust.ch/ or go to my Linkedin:
-     https://www.linkedin.com/in/yannic-reust-256813175/
+    https://www.linkedin.com/in/yannic-reust/
 
 <!---
 Yannic-reust/Yannic-reust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
